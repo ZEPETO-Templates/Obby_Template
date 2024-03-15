@@ -25,19 +25,19 @@ The Obby Template is a ready-to-use template for creating obstacle course (Obby)
 
 First we go to the [Code] button and click it.
 
-<br><img src = "docs/images/download/01.png" alt = "button code img"></img><br>
+<br><img src = "Docs/Images/download/01.png" alt = "button code img"></img><br>
 
 Then click on the icon to copy the link of the repository (make sure that you are on the https tab) or copy it manually.
 
-<br><img src = "docs/images/download/02.png" alt = "copy github link img"></img><br>
+<br><img src = "Docs/Images/download/02.png" alt = "copy github link img"></img><br>
 
 Once you have it, using your your preferred software (in this case we are using <a href="https://git-fork.com/" target="_blank"> Fork</a>) click on "File->Clone" or press "Ctrl + N" to clone.
 
-<br><img src = "docs/images/download/03.png" alt = "clone project img"></img><br>
+<br><img src = "Docs/Images/download/03.png" alt = "clone project img"></img><br>
 
 Here we fill the URL tab and set the folder where you want to save it and press clone.
 
-<br><img src = "docs/images/download/04.png" alt = "cloning settings img"></img><br>
+<br><img src = "Docs/Images/download/04.png" alt = "cloning settings img"></img><br>
 
 Once it clones the project you can open it from Unity Hub. <br>
 
@@ -46,7 +46,7 @@ Once it clones the project you can open it from Unity Hub. <br>
 
 Click on the same [Code] button but instead of clicking on the link, click on download zip
 
-<br><img src = "docs/images/download/05.png" alt = "download zip img"></img><br>
+<br><img src = "Docs/Images/download/05.png" alt = "download zip img"></img><br>
 
 Then extract the files and open it with Unity. <br>
 
@@ -55,11 +55,11 @@ Then extract the files and open it with Unity. <br>
 
 Go to the releases section or click in the latest release.
 
-<br><img src = "docs/images/download/06.png" alt = "releases section img"></img><br>
+<br><img src = "Docs/Images/download/06.png" alt = "releases section img"></img><br>
 
 Then click on the file ".unitypackage" and import it in a new project of Unity!
 
-<br><img src = "docs/images/download/07.png" alt = "unitypackage img"></img><br>
+<br><img src = "Docs/Images/download/07.png" alt = "unitypackage img"></img><br>
 
 
 > 💡 Enjoy and start creating with the Template! :tada:
@@ -73,7 +73,7 @@ Then click on the file ".unitypackage" and import it in a new project of Unity!
 <details><summary>How to open the project </summary>
 
 Select the template folder and it will open the project.
-<br><img src = "docs/images/howto/unityproject.png" alt = "unity project img" width="600"></img>
+<br><img src = "Docs/Images/howto/unityproject.png" alt = "unity project img" width="600"></img>
 
 <details><summary>To open a Unity project for the first time, follow these steps:</summary>
 
@@ -93,7 +93,7 @@ Before you press play to test the template you have to open the scene. <br>
 <details><summary> To play the game template in Unity, follow these steps: </summary>
 
 1. Open the Scene: First find the scene in the next folder and open it.
-<br><img src = "docs/images/howto/scene.png" alt = "scene img" width="600"></img><br><br>
+<br><img src = "Docs/Images/howto/scene.png" alt = "scene img" width="600"></img><br><br>
 2. Play the Template: then you can press [Play] to test the template.
 
 </details>
@@ -104,7 +104,7 @@ Before you press play to test the template you have to open the scene. <br>
 
 To make changes in the game you can go in the Hierarchy and select the "Managers" folder there are the most customizables settings for the template.
 
-<br><img src = "docs/images/howto/wherearevariables.png" alt = "variables img" width="600"></img>
+<br><img src = "Docs/Images/howto/wherearevariables.png" alt = "variables img" width="600"></img>
 <br>
 <details><summary> To change variables in Unity, follow these steps:</summary>
 
